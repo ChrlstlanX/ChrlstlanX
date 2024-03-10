@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @ChrlstlanX
+# 👋 Hola, Yo soy **ChrlstlanX**
+## Desarrollador Fullstack Trainee
 
-Soy desarrollador fullstack, diseñador web, y un apasionado de las tecnologías, he de decir que me gusta innovar y recrear grandes proyectos, poniendo a prueba mis habilidades y conocimientos.
-He realizado más de 5 proyectos listos para producción y he colaborado en 1 proyecto de gran escala
+- Dentro de mi perfil encontrarás el código de aplicaciones listas para su funcionamiento, actividades especificas, ejercicios y proyectos personales en producción.
+- Podrás colaborar en proyectos y así mejorar tus conocimientos.
+
+- Te invito a que visites mis redes sociales...
