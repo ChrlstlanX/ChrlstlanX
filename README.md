@@ -1,4 +1,4 @@
-# 👋 Hola, Yo soy **Chrlssstlanx**
+# 👋 Hola, Yo soy **Blitzkreig**
 ## Desarrollador Web Fullstack Trainee
 
 - Dentro de mi perfil encontrarás el código de aplicaciones listas para su funcionamiento, actividades especificas, ejercicios y proyectos personales en producción.
