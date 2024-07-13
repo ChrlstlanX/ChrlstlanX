@@ -1,7 +1,5 @@
 # 👋 Hola, Yo soy **Blitzkreig**
-## Desarrollador Web Fullstack Trainee
+## Desarrollador Web Fullstack Junior y Diseñador minimalista
 
-- Dentro de mi perfil encontrarás el código de aplicaciones listas para su funcionamiento, actividades especificas, ejercicios y proyectos personales en producción.
-- Podrás colaborar en proyectos y así mejorar tus conocimientos.
-
-- Tomate tu tiempo, explora mi contenido, modifica los proyectos y disfruta hacer lo que te apasiona.
+- Mi stack está compuesto de React, Next, Tailwind, Node, Express, PostgreSQL y Typescript, trabajo con la arquitectura MVC, manejo eficazmente diseños web minimalistas, responsive design y la accesibilidad web.
+Durante mi educación he logrado adquirir experiencias realizando trabajos orientado a entornos reales, como una tienda online, una página de cursos y mentorías, y una web coporativa, los cuales me han brindado conocimientos en el manejo de usuarios, autenticaciones, seguridad web, automatización y optimización, accesibilidad y responsive design.
