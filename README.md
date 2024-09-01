@@ -1,4 +1,4 @@
-# 👋 Hola desarrolladores, Yo soy **Blitrzkreig**
+# 👋 Hola desarrolladores, Yo soy **Blitzkreig**
 ## Desarrollador Web Fullstack Junior y Diseñador minimalista
 
 - Mi stack está compuesto de React, Next, Tailwind, Node, Express, PostgreSQL y Typescript, trabajo con la arquitectura MVC, manejo eficazmente diseños web minimalistas, responsive design y la accesibilidad web.
